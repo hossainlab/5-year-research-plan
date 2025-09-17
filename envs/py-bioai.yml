@@ -1,0 +1,27 @@
+name: bioai
+channels: [conda-forge, bioconda, defaults, pytorch]
+dependencies:
+  - python=3.11
+  - pip
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - anndata
+  - scanpy
+  - pytorch
+  - torchvision
+  - torchaudio
+  - scvi-tools
+  - squidpy
+  - scvelo
+  - leidenalg
+  - igraph
+  - louvain
+  - statsmodels
+  - pyyaml
+  - jupyterlab
+  - snakemake
+  - networkx
+  - gseapy

@@ -1,0 +1,14 @@
+# Key References & Portals
+- GDC/TCGA: https://portal.gdc.cancer.gov/
+- recount3: https://rna.recount.bio/
+- GEO: https://www.ncbi.nlm.nih.gov/geo/
+- GTEx: https://www.gtexportal.org/
+- Human Cell Atlas: https://data.humancellatlas.org/
+- Broad Single Cell Portal: https://singlecell.broadinstitute.org/single_cell
+- Allen Brain Map Cell Types: https://celltypes.brain-map.org/
+- SEA-AD: https://cellxgene.cziscience.com/
+- TISCH: https://tisch.comp-genomics.org/
+- DepMap: https://depmap.org/portal/
+- CPTAC/PDC: https://pdc.cancer.gov/
+- ENCODE: https://www.encodeproject.org/
+- Methods: DESeq2 • edgeR • limma-voom • Harmony • scVI • scVelo • Squidpy • MuSiC • BayesPrism

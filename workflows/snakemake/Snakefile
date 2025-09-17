@@ -1,0 +1,6 @@
+configfile: "workflows/snakemake/config.yml"
+rule all:
+  input: "results/README.md"
+rule init:
+  output: "results/README.md"
+  shell: "echo '# Results will be written here' > {output}"
